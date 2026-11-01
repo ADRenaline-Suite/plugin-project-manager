@@ -1,0 +1,10 @@
+{
+  "name": "plugin-project-manager",
+  "displayName": "Project Manager",
+  "description": "Writes the use case, the cross-repository task, the progress report, the sprint plan, and the ordered backlog.",
+  "version": "0.0.1",
+  "author": { "name": "d-mente" },
+  "license": "MIT",
+  "repository": "https://github.com/ADRenaline-Suite/plugin-project-manager",
+  "keywords": ["use-case", "sprint", "backlog", "status-report", "project-management"]
+}

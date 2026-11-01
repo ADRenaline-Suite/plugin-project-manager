@@ -1,0 +1,12 @@
+---
+description: The diagram, the test, the opportunity, and the reader document stay in their plugins. The tracker is not replaced.
+alwaysApply: true
+---
+
+# Project manager boundary
+
+Before writing, read the skill for this situation and only the reference it names.
+
+The use-case diagram is asked of `plugin-uml-diagrams`. The test scenario is asked of `plugin-qa-engineer`. The opportunity and the business outcome are cited from `plugin-product` when an accepted file exists. A tutorial, a how-to, a reference, or an explanation for a reader is asked of `plugin-documentation`.
+
+This plugin does not open an issue, move a column, or sync GitHub or Azure Boards. A tracker link is written only when the person gives it. A cost, a forecast, or a person's name is written only when the person gives it.

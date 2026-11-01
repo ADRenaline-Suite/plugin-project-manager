@@ -1,0 +1,16 @@
+{
+  "name": "plugin-project-manager",
+  "owner": {
+    "name": "ADRenaline Suite"
+  },
+  "metadata": {
+    "description": "Marketplace with the Project Manager plugin."
+  },
+  "plugins": [
+    {
+      "name": "plugin-project-manager",
+      "source": "./",
+      "description": "Writes the use case, the cross-repository task, the progress report, the sprint plan, and the ordered backlog."
+    }
+  ]
+}
